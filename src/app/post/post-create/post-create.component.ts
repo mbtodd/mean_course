@@ -6,12 +6,12 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./post-create.component.scss']
 })
 export class PostCreateComponent {
+  enteredValue = ''
   newPost = 'NO CONTENT';
 
 
-  onAddPost(postInput: HTMLTextAreaElement) {
-    console.dir(postInput)
-    this.newPost = 'the user\'s post';
+  onAddPost() {
+    this.newPost = this.enteredValue;
     // console.log('This has posted')
   }
 }

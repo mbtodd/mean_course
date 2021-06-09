@@ -1,0 +1,65 @@
+Date : 2021-06-08 21:54:59
+Directory : /Users/mtodd/Tutorials/MEAN/mean-course
+Total : 29 files,  14081 codes, 113 comments, 79 blanks, all 14273 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          8 |     13,835 |         25 |          7 |     13,867 |
+| TypeScript |         12 |        147 |         75 |         48 |        270 |
+| JavaScript |          2 |         66 |         12 |          4 |         82 |
+| HTML       |          3 |         19 |          0 |          3 |         22 |
+| Markdown   |          1 |         14 |          0 |         14 |         28 |
+| SCSS       |          3 |          0 |          1 |          3 |          4 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |         29 |     14,081 |        113 |         79 |     14,273 |
+| e2e                                                                                            |          4 |         68 |          8 |         11 |         87 |
+| e2e/src                                                                                        |          2 |         27 |          1 |          8 |         36 |
+| src                                                                                            |         16 |        139 |         75 |         46 |        260 |
+| src/app                                                                                        |          9 |         92 |          2 |         24 |        118 |
+| src/app/post                                                                                   |          4 |         38 |          2 |         12 |         52 |
+| src/app/post/post-create                                                                       |          4 |         38 |          2 |         12 |         52 |
+| src/environments                                                                               |          2 |          6 |         11 |          4 |         21 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                       | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/mtodd/Tutorials/MEAN/mean-course/README.md                                              | Markdown   |         14 |          0 |         14 |         28 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/angular.json                                           | JSON       |        108 |         21 |          0 |        129 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/e2e/protractor.conf.js                                 | JavaScript |         29 |          6 |          2 |         37 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/e2e/src/app.e2e-spec.ts                                | TypeScript |         18 |          1 |          5 |         24 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/e2e/src/app.po.ts                                      | TypeScript |          9 |          0 |          3 |         12 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/e2e/tsconfig.json                                      | JSON       |         12 |          1 |          1 |         14 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/karma.conf.js                                          | JavaScript |         37 |          6 |          2 |         45 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/package-lock.json                                      | JSON       |     13,465 |          0 |          1 |     13,466 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/package.json                                           | JSON       |         45 |          0 |          1 |         46 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/app/app.component.html                             | HTML       |          2 |          0 |          1 |          3 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/app/app.component.scss                             | SCSS       |          0 |          0 |          1 |          1 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/app/app.component.spec.ts                          | TypeScript |         27 |          0 |          5 |         32 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/app/app.component.ts                               | TypeScript |          9 |          0 |          2 |         11 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/app/app.module.ts                                  | TypeScript |         16 |          0 |          3 |         19 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/app/post/post-create/post-create.component.html    | HTML       |          4 |          0 |          1 |          5 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/app/post/post-create/post-create.component.scss    | SCSS       |          0 |          0 |          1 |          1 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/app/post/post-create/post-create.component.spec.ts | TypeScript |         22 |          1 |          6 |         29 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/app/post/post-create/post-create.component.ts      | TypeScript |         12 |          1 |          4 |         17 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/environments/environment.prod.ts                   | TypeScript |          3 |          0 |          1 |          4 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/environments/environment.ts                        | TypeScript |          3 |         11 |          3 |         17 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/index.html                                         | HTML       |         13 |          0 |          1 |         14 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/main.ts                                            | TypeScript |          9 |          0 |          4 |         13 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/polyfills.ts                                       | TypeScript |          1 |         57 |          8 |         66 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/styles.scss                                        | SCSS       |          0 |          1 |          1 |          2 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/src/test.ts                                            | TypeScript |         18 |          4 |          4 |         26 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/tsconfig.app.json                                      | JSON       |         14 |          1 |          1 |         16 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/tsconfig.json                                          | JSON       |         22 |          1 |          1 |         24 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/tsconfig.spec.json                                     | JSON       |         17 |          1 |          1 |         19 |
+| /Users/mtodd/Tutorials/MEAN/mean-course/tslint.json                                            | JSON       |        152 |          0 |          1 |        153 |
+| Total                                                                                          |            |     14,081 |        113 |         79 |     14,273 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
